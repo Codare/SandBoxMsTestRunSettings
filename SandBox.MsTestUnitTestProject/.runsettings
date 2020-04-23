@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <Parallelize>
+    <Workers>0</Workers>
+    <Scope>MethodLevel</Scope>
+  </Parallelize>
+  <TestRunParameters>
+    <Parameter name="environment" value="Automation" />    
+  </TestRunParameters>
+</RunSettings>
